@@ -29,7 +29,7 @@
         $num=[15,4,18,23,10];
 
         sort_2way($num,TRUE);
-        sort_2way($num,FALSE)
+        sort_2way($num,FALSE);
         ?>
     </p>
 </body>
